@@ -4,3 +4,5 @@ class HelloWorld {
     }
 }
 New Line added in feature1
+New Line added in feature1
+New Line added in feature2
